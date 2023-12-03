@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(2, 27, 84, 0.868);
+}
+
+h2{
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+form{
+    margin-left: 35%;
+    height: 500px;
+    width: 500px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: white;
+    /* box-shadow: 10px 10px 5px white; */
+}
+
+form label{
+    display: block;
+    font-size: 17px;
+    color: red;
+    text-transform:uppercase;
+}
+
+.message input{
+    padding: 40px;
+    width: 65%;
+}
+
+form div{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+form input{
+    width: 80%;
+    padding: 5px;
+}
+
+.btn{
+    width: 80%;
+    margin-left: 10px;
+    padding: 5px;
+    background-color: rgb(5, 134, 146);
+    border: none;
+}
